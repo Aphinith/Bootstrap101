@@ -1,0 +1,10 @@
+.page_title {
+  text-align: center;
+}
+
+.column_test {
+  text-align: center;
+  margin: 15px;
+  background-color: #99ffff;
+  min-height: 300px;
+}
