@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "Crash course into using bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aphinith/Bootstrap101.git"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "Aralya Phinith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aphinith/Bootstrap101/issues"
+  },
+  "homepage": "https://github.com/Aphinith/Bootstrap101#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
